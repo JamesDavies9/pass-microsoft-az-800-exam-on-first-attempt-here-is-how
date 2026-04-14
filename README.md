@@ -18,7 +18,7 @@
 <p>This isn&#39;t a knowledge gap. It&#39;s a mindset gap. And it&#39;s the real reason smart, experienced admins walk out of that testing center with a failing score.</p>
 
 <hr />
-<h2>What the Microsoft AZ-800 Is Actually Testing You On</h2>
+<h2>What the Microsoft AZ-800 Exam Is Actually Testing You On</h2>
 
 <p>The exam covers five core domains but don&#39;t let the list fool you into thinking this is a checklist exercise.</p>
 
