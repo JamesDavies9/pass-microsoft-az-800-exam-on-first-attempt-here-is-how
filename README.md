@@ -1,4 +1,4 @@
-<h1>Why Most IT Pros Fail the AZ-800 on Their First Attempt (And What Actually Works)</h1>
+<h1>Why Most IT Pros Fail the microsoft AZ-800 Exam on Their First Attempt (And What Actually Works)</h1>
 
 <p>You&#39;ve been managing Windows Server for years. You know Active Directory. You&#39;ve set up domain controllers, handled DNS, troubleshot replication issues at 2am. You know this stuff, so why does the AZ-800 feel like a different beast entirely?</p>
 
